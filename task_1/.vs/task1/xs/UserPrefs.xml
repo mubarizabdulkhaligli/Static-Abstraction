@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{8E823FB8-231B-4697-A9D9-72F43908C2BB}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="task1/Program.cs">
+    <Files>
+      <File FileName="task1/Program.cs" Line="22" Column="29" />
+      <File FileName="task1/IFruit.cs" />
+      <File FileName="task1/Apple.cs" />
+      <File FileName="task1/Pear.cs" />
+      <File FileName="task1/Pomegranate.cs" />
+      <File FileName="task1/Fruit.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.task1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
