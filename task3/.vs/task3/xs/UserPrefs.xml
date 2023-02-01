@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{93BBA5DC-FA44-44D8-BB09-9395F8437D23}|Default">
+  <MonoDevelop.Ide.ItemProperties.task3 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="task3/Program.cs">
+    <Files>
+      <File FileName="task3/Program.cs" Line="1" Column="1" />
+      <File FileName="task3/Vehicle.cs" Line="12" Column="1" />
+      <File FileName="task3/Car.cs" Line="12" Column="27" />
+      <File FileName="task3/Bicycle.cs" Line="8" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
